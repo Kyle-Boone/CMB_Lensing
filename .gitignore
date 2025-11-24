@@ -1,0 +1,12 @@
+Data/
+pat.txt
+__pycache__/
+*.py[cod]
+Signal_Noise/
+Qual/
+Paper_Plots/
+OLD/
+Half_Data/Splits_Data/
+Half_Data/Convergence/
+Cls_and_WST/OLD/
+Dimension_Reduction/
